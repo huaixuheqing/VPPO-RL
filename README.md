@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-2510.00000-b31b1b.svg)](https://arxiv.org/abs/2510.00000)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.09285-b31b1b.svg)](https://arxiv.org/abs/2510.09285)
 [![GitHub](https://img.shields.io/badge/💻%20GitHub-Code-green)](https://github.com/huaixuheqing/VPPO-RL)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Models-yellow)](https://huggingface.co/collections/chamber111/vppo-model-68e79d724ad79e69c6f60d58)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Data-yellow)](https://huggingface.co/collections/chamber111/vppo-data-68e7aaafe1bffbab844d341b)
@@ -134,14 +134,17 @@ Our evaluation leverages the framework from [PAPO-Eval](https://github.com/xhguo
 
 If you find our work on token perception and the VPPO algorithm useful in your research, please cite our paper:
 
-<!-- ```bibtex
-@article{name2025vppo,
-  title={Spotlight on Token Perception for Multimodal Reinforcement Learning},
-  author={},
-  journal={arXiv preprint arXiv:2510.XXXXX},
-  year={2025}
+```bibtex
+@misc{huang2025spotlighttokenperceptionmultimodal,
+      title={Spotlight on Token Perception for Multimodal Reinforcement Learning}, 
+      author={Siyuan Huang and Xiaoye Qu and Yafu Li and Yun Luo and Zefeng He and Daizong Liu and Yu Cheng},
+      year={2025},
+      eprint={2510.09285},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.09285}, 
 }
-``` -->
+```
 
 ## Acknowledgements
 
