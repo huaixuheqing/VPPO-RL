@@ -8,6 +8,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.09285-b31b1b.svg)](https://arxiv.org/abs/2510.09285)
 [![GitHub](https://img.shields.io/badge/💻%20GitHub-Code-green)](https://github.com/huaixuheqing/VPPO-RL)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Paper-yellow)](https://huggingface.co/papers/2510.09285)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Models-yellow)](https://huggingface.co/collections/chamber111/vppo-model-68e79d724ad79e69c6f60d58)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Data-yellow)](https://huggingface.co/collections/chamber111/vppo-data-68e7aaafe1bffbab844d341b)
 
