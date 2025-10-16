@@ -136,14 +136,11 @@ Our evaluation leverages the framework from [PAPO-Eval](https://github.com/xhguo
 If you find our work on token perception and the VPPO algorithm useful in your research, please cite our paper:
 
 ```bibtex
-@misc{huang2025spotlighttokenperceptionmultimodal,
-      title={Spotlight on Token Perception for Multimodal Reinforcement Learning}, 
-      author={Siyuan Huang and Xiaoye Qu and Yafu Li and Yun Luo and Zefeng He and Daizong Liu and Yu Cheng},
-      year={2025},
-      eprint={2510.09285},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2510.09285}, 
+@article{huang2025spotlight,
+  title={Spotlight on Token Perception for Multimodal Reinforcement Learning},
+  author={Huang, Siyuan and Qu, Xiaoye and Li, Yafu and Luo, Yun and He, Zefeng and Liu, Daizong and Cheng, Yu},
+  journal={arXiv preprint arXiv:2510.09285},
+  year={2025}
 }
 ```
 
