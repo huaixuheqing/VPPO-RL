@@ -22,6 +22,7 @@ Our proposed algorithm, **Visually-Perceptive Policy Optimization (VPPO)**, is t
 
 ## 🚀 News
 
+-   **[2026-01-30]** 🎉 Our paper has been accepted to **ICLR 2026**!
 -   **[2025-11-11]** The training script for **VPPO-8B** is now available! We've updated our codebase to fully support training based on **Qwen3-VL-8B-Instruct**. You can find the script in `examples/configs/train_vppo_8b.sh`.
 -   **[2025-11-07]** We have released **VPPO-8B**, a new model that achieves excellent performance. It was trained using our VPPO algorithm, starting from the **Qwen3-VL-8B-Instruct** model. Compared to our previous training runs, we increased the `max response length` and the `Entropy Penalty Coefficient`. You can find more details and access the model on our [Hugging Face Models collection](https://huggingface.co/collections/chamber111/vppo-model-68e79d724ad79e69c6f60d58).
 
